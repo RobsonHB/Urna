@@ -1,0 +1,9 @@
+c:\users\robson\documents\visual studio 2015\Projects\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.exe.config
+c:\users\robson\documents\visual studio 2015\Projects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.csprojResolveAssemblyReference.cache
+c:\users\robson\documents\visual studio 2015\Projects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.Form1.resources
+c:\users\robson\documents\visual studio 2015\Projects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.Properties.Resources.resources
+c:\users\robson\documents\visual studio 2015\Projects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.csproj.GenerateResource.Cache
+c:\users\robson\documents\visual studio 2015\Projects\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.exe
+c:\users\robson\documents\visual studio 2015\Projects\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.pdb
+c:\users\robson\documents\visual studio 2015\Projects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.exe
+c:\users\robson\documents\visual studio 2015\Projects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.pdb
